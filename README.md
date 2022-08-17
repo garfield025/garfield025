@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garfield025
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in **cybersecurity**
 - 🌱 I’m currently learning **Syntax Error**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 🪐
 - 📫 How to reach me **Time Travel**
 
 <!---
